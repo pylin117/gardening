@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: Microsoft JhengHei, MingLiU, 'Times New Roman', Times, serif;
+}
+
+li{
+    text-align: left;
+}
+
+.content{
+    font-size: 23px;
+}
+
+.menu_btn{
+    cursor: pointer;
+    font-size: 20px;
+    color: gray;
+}
+
+#menu{
+  position: fixed;
+  top: 150px;
+  left: 130px;
+  width: 200px;
+}

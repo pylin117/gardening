@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family: Microsoft JhengHei, MingLiU, 'Times New Roman', Times, serif;
+}
+
+table{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+    border: 5px double gray
+}
+
+th{
+    border: 2px solid BurlyWood
+}
+
+td{
+    border-top: 1px dashed gray
+}
+
+.changecolor:hover
+{
+    color:CornflowerBlue;
+}

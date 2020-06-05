@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    font-family: Microsoft JhengHei, MingLiU, 'Times New Roman', Times, serif;
+}
+
+h2{
+    /* 預留歌曲名稱的顯示空間 */
+    height: 32px;
+}

@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: Microsoft JhengHei, MingLiU, 'Times New Roman', Times, serif;
+}
+
+canvas{
+    border: 2px solid black;
+    background-image: url(images/grasses68.gif);
+    width: 55%;
+}
+
+#talkbox{
+    height: 20px;
+    color: cadetblue;
+    font-size: 22px;
+    font-weight: bold;
+}
